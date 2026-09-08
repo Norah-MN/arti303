@@ -94,7 +94,6 @@ Open a pull request `lab02 → main`, paste the link where your instructor asks 
 **Checklist**
 - [ ] `src/students.py` has all Core + Stretch functions, plus your own Challenge addition
 - [ ] `notebooks/lab02.ipynb` runs top to bottom, all self-checks pass
-- [ ] `docs/ai-log.md` has a new entry for this lab
 - [ ] Commit message describes the change
 - [ ] PR opened `lab02 → main`, link submitted
 
