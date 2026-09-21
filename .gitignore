@@ -1,0 +1,7 @@
+# TODO: add the patterns
+%%writefile .gitignore
+.venv/
+__pycache__/
+logs/
+kaggle.json
+.env
