@@ -4,7 +4,7 @@ comm==0.2.3
 debugpy==1.8.22
 executing==2.2.1
 iniconfig==2.3.0
-ipykernel==7.3.0
+ipykernel==7.4.0
 ipython==9.17.1
 ipython_pygments_lexers==1.1.1
 jedi==0.20.0
@@ -14,6 +14,7 @@ matplotlib-inline==0.2.2
 nest-asyncio2==1.7.2
 numpy==2.5.3
 packaging==26.3
+pandas==3.0.6
 parso==0.8.7
 platformdirs==4.11.8
 pluggy==1.6.0
@@ -29,4 +30,5 @@ stack-data==0.6.3
 tornado==6.5.10
 traitlets==5.16.1
 typing_extensions==4.16.0
+tzdata==2026.5
 wcwidth==0.8.3

@@ -1,0 +1,119 @@
+[
+  {
+    "student_id":1001,
+    "name":"Sara Alotaibi",
+    "gender":"Female",
+    "gpa":"4.60",
+    "credits":95.0,
+    "dept":"CE",
+    "status":"active"
+  },
+  {
+    "student_id":1002,
+    "name":"  faisal alharbi ",
+    "gender":"male",
+    "gpa":"3.90",
+    "credits":88.0,
+    "dept":"ce",
+    "status":"active"
+  },
+  {
+    "student_id":1003,
+    "name":"Lama Alqahtani",
+    "gender":"F",
+    "gpa":"4.85",
+    "credits":102.0,
+    "dept":"CE",
+    "status":"active"
+  },
+  {
+    "student_id":1004,
+    "name":"Omar Alshehri",
+    "gender":"M",
+    "gpa":"pending",
+    "credits":76.0,
+    "dept":"CS",
+    "status":"active"
+  },
+  {
+    "student_id":1005,
+    "name":"Noura Alzahrani",
+    "gender":"female",
+    "gpa":"2.95",
+    "credits":64.0,
+    "dept":"cs",
+    "status":"inactive"
+  },
+  {
+    "student_id":1006,
+    "name":"Khalid Almutairi",
+    "gender":"Male",
+    "gpa":"3.40",
+    "credits":null,
+    "dept":"CE",
+    "status":"active"
+  },
+  {
+    "student_id":1007,
+    "name":"Reem Alharbi",
+    "gender":"F",
+    "gpa":"4.50",
+    "credits":91.0,
+    "dept":"BME",
+    "status":"active"
+  },
+  {
+    "student_id":1003,
+    "name":"Lama Alqahtani",
+    "gender":"F",
+    "gpa":"4.85",
+    "credits":102.0,
+    "dept":"CE",
+    "status":"active"
+  },
+  {
+    "student_id":1008,
+    "name":"Yousef Alqahtani",
+    "gender":"M",
+    "gpa":"1.85",
+    "credits":45.0,
+    "dept":"CS",
+    "status":"inactive"
+  },
+  {
+    "student_id":1009,
+    "name":"Hala Alotaibi",
+    "gender":" female",
+    "gpa":"4.20",
+    "credits":83.0,
+    "dept":"BME",
+    "status":"active"
+  },
+  {
+    "student_id":1010,
+    "name":"Bader Alanazi",
+    "gender":"M",
+    "gpa":"3.75",
+    "credits":79.0,
+    "dept":"CE",
+    "status":"active"
+  },
+  {
+    "student_id":1011,
+    "name":"Maha Alsubaie",
+    "gender":"F",
+    "gpa":"--",
+    "credits":58.0,
+    "dept":"BME",
+    "status":"inactive"
+  },
+  {
+    "student_id":1012,
+    "name":"Turki Aldossari",
+    "gender":"male",
+    "gpa":"4.95",
+    "credits":110.0,
+    "dept":"CS",
+    "status":"active"
+  }
+]
