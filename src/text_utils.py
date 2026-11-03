@@ -1,9 +1,7 @@
-"""TODO: describe this module."""
-"""This module provides text utility functions."""
+"""Helpers for cleaning up messy text fields."""
+
 
 def clean_name(raw):
-    """Clean and format a person's name."""
-    # TODO: collapse whitespace, then title-case
-    cleaned = " ".join(raw.split()) 
-    return cleaned.title()
-    pass
+    """Strip, collapse inner whitespace, and title-case a name."""
+    collapsed = " ".join(raw.split())
+    return collapsed.title()
