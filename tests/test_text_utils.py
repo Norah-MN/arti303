@@ -9,7 +9,7 @@ import text_utils
 
 
 def test_clean_name_whitespace():
-    assert text_utils.clean_name("  sara ali  ") == "Sara Ali"
+    assert text_utils.clean_name("  sara   ali  ") == "Sara Ali"
     assert text_utils.clean_name("sara   ali") == "Sara Ali"
 
 
